@@ -184,3 +184,5 @@ another change to README
 "another change to the README.md" 
 my change to the README
 my change to the README
+my change to the readme
+another change to the README
